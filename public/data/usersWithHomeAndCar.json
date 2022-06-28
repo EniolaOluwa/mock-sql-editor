@@ -1,0 +1,29 @@
+{
+  "result": [
+    {
+      "name": "Michael Oliver",
+      "cars": 3,
+      "homes": 4
+    },
+    {
+      "name": "Sandra Bullock",
+      "cars": 31,
+      "homes": 9
+    },
+    {
+      "name": "Alexa Amazon",
+      "cars": 12,
+      "homes": 7
+    },
+    {
+      "name": "Taylor Switch",
+      "cars": 6,
+      "home": 19
+    },
+    {
+      "name": "Didier Drogba",
+      "cars": 8,
+      "home": 122
+    }
+  ]
+}

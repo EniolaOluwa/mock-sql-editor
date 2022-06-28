@@ -1,0 +1,10 @@
+node_modules
+.next
+public
+__test__
+coverage
+jest.config.jest
+.vscode
+styles
+package.json
+tsconfig.json

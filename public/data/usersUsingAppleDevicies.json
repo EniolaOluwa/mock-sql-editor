@@ -1,0 +1,52 @@
+{
+  "result": [
+    {
+      "name": "Michael Oliver",
+      "iPad": 3,
+      "ipod": 4,
+      "macbook": 1,
+      "imac": 0,
+      "iphone": 2
+    },
+    {
+      "name": "Sandra Bullock",
+      "iPad": 1,
+      "ipod": 2,
+      "macbook": 1,
+      "imac": 1,
+      "iphone": 3
+    },
+    {
+      "name": "Alexa Amazon",
+      "iPad": 3,
+      "ipod": 0,
+      "macbook": 1,
+      "imac": 0,
+      "iphone": 1
+    },
+    {
+      "name": "Taylor Switch",
+      "iPad": 3,
+      "ipod": 0,
+      "macbook": 1,
+      "imac": 0,
+      "iphone": 1
+    },
+    {
+      "name": "Didier Drogba",
+      "iPad": 3,
+      "ipod": 2,
+      "macbook": 1,
+      "imac": 0,
+      "iphone": 1
+    },
+    {
+      "name": "Mike Tyson",
+      "iPad": 0,
+      "ipod": 2,
+      "macbook": 1,
+      "imac": 0,
+      "iphone": 1
+    }
+  ]
+}
